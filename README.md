@@ -9,7 +9,15 @@ current user credentials (set via gcloud auth application-default login).
 
 Ideal for development, demos, or prototypes where you want GCP access from Docker without managing static keys.
 
-![bq_python_client_with_adc.png](diagram%2Fbq_python_client_with_adc.png)
+![run_docker_app_locally_gcp.png](diagram/run_docker_app_locally_gcp.png)![bq_python_client_with_adc.png](diagram%2Fbq_python_client_with_adc.png)
+
+The video in English :
+
+https://youtu.be/tBHENRLe_ms
+
+The video in French :
+
+https://youtu.be/Obq0V3TtjwI
 
 ## Build the Dockerfile locally
 
